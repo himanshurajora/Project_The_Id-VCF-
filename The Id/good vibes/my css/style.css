@@ -1,0 +1,14 @@
+body{
+  background-color: #66BFBF;
+  padding:30px 100px 30px 100px;
+  text-align:  justify;
+}
+div{
+  background-color:#94d3ac;
+  border-radius: 10px;
+  padding:20px 10px 10px 60px;
+}
+.button:hover{
+  background-color: #eee;
+
+}

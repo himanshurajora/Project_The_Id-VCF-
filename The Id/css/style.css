@@ -1,0 +1,42 @@
+body{
+  background-image: url('backy.jpg');
+  padding:20px 50px 20px 50px;
+  font-style: italic;
+}
+fieldset{
+  border-radius: 5%;
+
+}
+h1{
+
+  align="center";
+  font-size: 70px;
+}
+img{
+  border-radius: 100%;
+  direction: rtl;
+}
+mark:hover{
+  background-color: blue;
+
+}
+.start{
+  height: 200px;
+  width: 500px;
+  position: relative;
+  left: 500px;
+}
+
+.harsh{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  }
+.himmy{
+  height: 200px;
+  width: 200px;
+  position: relative;
+  left: 1000px;
+  bottom: 200px;
+
+}

@@ -1,0 +1,15 @@
+/******************class selector***************/
+body{background-color:#CCEDD2;
+}
+hr{
+  border-style: dotted;
+  border-color: grey;
+  width: 10px;
+}
+/*******************Id selector**************/
+h1{
+  color:#66BFBF
+}
+h3{
+  color:#66BFBF
+}

@@ -1,0 +1,13 @@
+.head{
+  font-style: oblique;
+}
+.text{
+  font-style: italic;
+  background-color: #94d3ac;
+  padding:50px 50px 50px 50px;
+  border-radius: 5%;
+}
+body{
+  padding:27px 50px 25px 50px;
+  background-color: #66bfbf;
+}
